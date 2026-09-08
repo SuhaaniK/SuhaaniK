@@ -41,6 +41,8 @@
 
 **PRAESENS** 🛡️ — a multimodal biometric liveness detection system fusing optical light-reflectance challenges with privacy-preserving keystroke/motion cross-correlation to defend against video injection attacks. Patent filed via VIT IPR cell; paper under submission.
 
+![snake](https://raw.githubusercontent.com/SuhaaniK/SuhaaniK/output/github-contribution-grid-snake.svg)
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
 ### 🛠️ Tech Stack
