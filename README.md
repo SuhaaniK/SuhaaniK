@@ -27,7 +27,14 @@ Hyperspectral & remote sensing image analysis · Deep learning for denoising & r
 **PRAESENS** — a multimodal biometric liveness detection system fusing optical light-reflectance challenges with privacy-preserving keystroke/motion cross-correlation to defend against video injection attacks. Patent filed via VIT IPR cell; paper under submission.
 
 <br>
+---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+<br>
 ### 🛠️ Tech Stack
 
 **Languages**
