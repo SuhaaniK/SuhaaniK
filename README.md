@@ -15,7 +15,7 @@
 🎓 BTech CSE (Bioinformatics specialization) @ VIT Vellore | CGPA 9.11
 🛰️  Research Intern, Image Processing Lab @ ISRO Space Applications Centre
 🔬 Former AI & Data Science Research Intern @ Indian Institute of Science (IISc)
-✈️  Applying for fully-funded PhD (US) / MS (Europe) programs in CS — Fall 2027
+✈️  Applying for PhD (US) / MS (Europe) programs in CS — Fall 2027
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
