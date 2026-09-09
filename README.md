@@ -83,8 +83,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuhaaniK&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=6C63FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaaniK&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D" />
+<img height="165" src="[https://github-readme-stats.vercel.app/api?username=SuhaaniK&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=6C63FF](https://github-readme-stats-git-master-suhaanikedar360-4429s-projects.vercel.app/)" />
+<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaaniK&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D](https://github-readme-stats-git-master-suhaanikedar360-4429s-projects.vercel.app/)" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaaniK&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B9D" />
 
