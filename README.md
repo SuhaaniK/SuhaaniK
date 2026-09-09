@@ -88,7 +88,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaaniK&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B9D" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=SuhaaniK&theme=radical&no-frame=true&row=1&column=6" />
+
 
 </div>
 
