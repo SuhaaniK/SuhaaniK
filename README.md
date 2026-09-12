@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Suhaani%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Deep%20Learning%20·%20Computer%20Vision%20·%20Remote%20Sensing&descAlignY=62&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hyperspectral+Image+Denoising+Research+%F0%9F%9B%B0%EF%B8%8F;PhD-bound+%7C+Applying+Fall+2027+%F0%9F%8E%93;Ex-ISRO+SAC+%F0%9F%9A%80+%7C+Ex-IISc+Research+Intern" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hyperspectral+Image+Denoising+Research+%F0%9F%9B%B0%EF%B8%8F;PhD-bound+%7C+%F0%9F%8E%93;Ex-ISRO+SAC+%F0%9F%9A%80+%7C+Ex-IISc+Research+Intern" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=SuhaaniK&color=ff6b9d&style=for-the-badge&label=PROFILE+VIEWS" />
 
