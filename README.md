@@ -86,8 +86,7 @@
 <img height="165" src="https://github-readme-stats-zeta-gules-33.vercel.app/api?username=SuhaaniK&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B90&icon_color=6C63FF" />
 <img height="165" src="https://github-readme-stats-zeta-gules-33.vercel.app/api/top-langs/?username=SuhaaniK&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B90" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaaniK&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B9D" />
-
+<img src="https://streak-stats.demolab.com/?user=SuhaaniK&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B90" />
 
 
 </div>
